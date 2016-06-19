@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.29)  19 JUN 2016 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.29)  19 JUN 2016 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,8 +980,14 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 75.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 75.
-[2])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
+[2]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 87.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 87.
+)
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 39.
 Package babel Info: Redefining german shorthand "|
@@ -995,21 +1001,40 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 39.
  [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 39.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 39.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 39.
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E0173E48A36E7A049F5FAB189DD6B3D3;357.
+(rerunfilecheck)             Checksum: E557CA027CF52AD7DEB1AA2A42F20A29;433.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14394 strings out of 493033
- 236292 string characters out of 6134145
+ 14405 strings out of 493033
+ 236501 string characters out of 6134145
  822609 words of memory out of 5000000
- 17710 multiletter control sequences out of 15000+600000
+ 17717 multiletter control sequences out of 15000+600000
  14233 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  52i,6n,69p,1288b,2397s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1025,10 +1050,10 @@ xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (3 pages, 159516 bytes).
+Output written on main.pdf (4 pages, 163867 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 132 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
