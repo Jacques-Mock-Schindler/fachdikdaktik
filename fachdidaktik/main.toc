@@ -1,2 +1,5 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \select@language {german}
-\contentsline {section}{\numberline {1}Die Einleitungsartikel des ZGB}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Die Einleitungsartikel des ZGB}{1}{section.1}
