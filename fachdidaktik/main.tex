@@ -1,0 +1,34 @@
+\documentclass[a4paper,11pt,
+%draft,
+]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{paralist}
+\usepackage{xargs}
+\usepackage{xstring}
+\usepackage{amssymb}
+\usepackage[autostyle,german=swiss]{csquotes}
+
+\usepackage[
+      backend=biber,
+      style=biblatex-swiss-legal-shortarticle
+      ]{biblatex}
+\addbibresource{Fachdidaktik.bib}
+
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+            colorlinks=false,
+            pdftitle={Didaktik im Rechstunterricht},
+            pdfsubject={Fachdidaktik},
+            pdfauthor={},
+            }
+
+\title{Überlegungen zu einer Fachdidaktik Recht}
+\begin{document}
+\maketitle
+\tableofcontents
+\section{Die Einleitungsartikel des ZGB}
+\input{einleitungsartikel.tex}
+\end{document}
