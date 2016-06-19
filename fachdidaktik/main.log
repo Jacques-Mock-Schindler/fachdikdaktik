@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.29)  19 JUN 2016 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.29)  19 JUN 2016 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -945,24 +945,42 @@ Package babel Info: Redefining german shorthand "~
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 50.
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [][][][][]\OT1/cmr/m/n/9 Franz Wie-acker, \OT1/cmr/m/it/9 Pri-vat-rechts-ge-sch
 ich-te der Neu-zeit: un-ter be-son-de-rer
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 47--47
+Underfull \hbox (badness 1242) in paragraph at lines 53--53
 \OT1/cmr/m/it/9 Ber[]ucksichtigung der deut-schen Ent-wick-lung\OT1/cmr/m/n/9 ,
  2. un-ver[]and. Nach-dr. der 2., neu-be-
  []
 
-)
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 64.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 75.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 75.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 75.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 75.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 75.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 75.
+[2])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 39.
@@ -976,25 +994,25 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 39.
- [2]
+ [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 60AEB1AECF576A7BC7268A51D8D331F5;279.
+(rerunfilecheck)             Checksum: E0173E48A36E7A049F5FAB189DD6B3D3;357.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14350 strings out of 493033
- 235639 string characters out of 6134145
- 819609 words of memory out of 5000000
- 17682 multiletter control sequences out of 15000+600000
- 12597 words of font info for 47 fonts, out of 8000000 for 9000
+ 14394 strings out of 493033
+ 236292 string characters out of 6134145
+ 822609 words of memory out of 5000000
+ 17710 multiletter control sequences out of 15000+600000
+ 14233 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 52i,6n,67p,793b,2397s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,6n,69p,1288b,2397s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -1002,14 +1020,15 @@ usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (2 pages, 137784 bytes).
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on main.pdf (3 pages, 159516 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
