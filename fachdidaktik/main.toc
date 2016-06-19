@@ -3,3 +3,7 @@
 \select@language {german}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Die Einleitungsartikel des ZGB}{1}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Anwendbares Recht}{1}{subsection.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}Gesetzesrecht}{2}{subsubsection.1.1.1}
